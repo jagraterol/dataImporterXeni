@@ -1,0 +1,4 @@
+tableName:uefmTable
+patient:text
+age:int
+uefm:int

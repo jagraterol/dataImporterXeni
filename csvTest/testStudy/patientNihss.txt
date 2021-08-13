@@ -1,0 +1,4 @@
+tableName:patientNihss
+patient:text
+age:int
+nihss:int
