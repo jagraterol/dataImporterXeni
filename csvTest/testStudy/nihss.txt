@@ -1,5 +1,0 @@
-studyName:test2
-tableName:patientNihss
-patient:text
-age:int
-nihss:int
